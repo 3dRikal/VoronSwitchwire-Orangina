@@ -7,5 +7,5 @@ SwitchWire VS.577
 <a href=https://docs.ldomotors.com/en/voron/voronsw/sw-bom>LDO Switchwire BOM</a><br/>
 
 Printed Parts (by PIF program) 
-eSun ABS+ Black
-eSun ABS+ Orange
+eSun ABS+ Black <br/>
+eSun ABS+ Orange <br/>
