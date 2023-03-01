@@ -1,4 +1,4 @@
-<H2><b>VoronSwitchwire-Orangina</b></H2> <br/>
+<H2><b>Voron Switchwire-Orangina</b></H2> <br/>
 SwitchWire VS.577
 
 ![VS577](https://user-images.githubusercontent.com/77007416/222250468-3afc589a-c948-4cdb-8b78-95d46b495813.jpg)
